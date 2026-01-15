@@ -1,0 +1,4 @@
+# robots.txt for melkottalar.com
+# Allowing all crawlers full access for academic sharing and indexing
+User-agent: *
+Disallow:
